@@ -43,6 +43,7 @@
 | tooltipTemplate     | TemplateRef        |               | a custom ng-template to be displayed inside the tooltip                                                           |
 | xScaleMax           | number             |               | the maximum value of the x axis \(ignored if chart data contains a higher value\)                                 |
 | xScaleMin           | number             |               | the minimum value of the x axis \(ignored if chart data contains a lower value\)                                  |
+| roundEdges          | boolean            | true          | round edges for the bars                                  |
 
 ## Outputs
 
